@@ -1,4 +1,4 @@
-# qpp-submissions-schema
+# qpp-submissions-schema (ARCHIVED/READ-ONLY)
 
 ## Quality Payment Program Submissions Schema
 
